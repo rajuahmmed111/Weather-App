@@ -1,8 +1,7 @@
 {
   "name": "weather-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple weather application",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html"
