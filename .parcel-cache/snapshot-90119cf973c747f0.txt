@@ -1,4 +1,4 @@
-6711
+6708
 60G:\others\weather-app\node_modules\side-channel\package.json133735648565585263 0
 66G:\others\weather-app\node_modules\update-browserslist-db\index.js133735620164869301 0
 97G:\others\weather-app\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133735620206846979 0
@@ -9,7 +9,7 @@
 55G:\others\weather-app\node_modules\toidentifier\LICENSE133735648560000197 0
 118G:\others\weather-app\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local133735620228618770 1
 76G:\others\weather-app\node_modules\csso\lib\restructure\8-restructRuleset.js133735620180567267 0
-37G:\others\weather-app\dist\index.html133735681788807390 0
+37G:\others\weather-app\dist\index.html133735683426327054 0
 99G:\others\weather-app\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json133735620203176796 0
 55G:\others\weather-app\node_modules\define-data-property133735648567260781 1
 43G:\others\weather-app\node_modules\get-port133735620196095758 1
@@ -23,7 +23,7 @@
 63G:\others\weather-app\node_modules\lightningcss\node\index.d.ts133735620173994846 0
 57G:\others\weather-app\node_modules\es-errors\package.json133735648567250795 0
 54G:\others\weather-app\node_modules\srcset\package.json133735620165328038 0
-34G:\others\weather-app\package.json133735681785296783 0
+34G:\others\weather-app\package.json133735682757875643 0
 39G:\others\weather-app\node_modules\vary133735648563301359 1
 66G:\others\weather-app\node_modules\weak-lru-cache\rollup.config.js133735620166375236 0
 62G:\others\weather-app\node_modules\caniuse-lite\data\agents.js133735620170923069 0
@@ -43,7 +43,7 @@
 64G:\others\weather-app\node_modules\@parcel\workers\src\Handle.js133735620180477508 0
 40G:\others\weather-app\node_modules\bytes133735648563281439 1
 69G:\others\weather-app\node_modules\cosmiconfig\dist\defaults.d.ts.map133735620173695648 0
-54G:\others\weather-app\dist\weather-app.59712999.js.map133735681788867241 0
+54G:\others\weather-app\dist\weather-app.59712999.js.map133735683426486639 0
 54G:\others\weather-app\node_modules\svgo\lib\builtin.js133735620174712929 0
 60G:\others\weather-app\node_modules\finalhandler\package.json133735648561835279 0
 61G:\others\weather-app\node_modules\color-convert\CHANGELOG.md133735620162645222 0
@@ -64,7 +64,7 @@
 53G:\others\weather-app\node_modules\es-define-property133735648567051337 1
 58G:\others\weather-app\node_modules\weak-lru-cache\index.js133735620164460347 0
 44G:\others\weather-app\node_modules\@trysound133735620150577485 1
-50G:\others\weather-app\dist\weather-app.59712999.js133735681788807390 0
+50G:\others\weather-app\dist\weather-app.59712999.js133735683426327054 0
 88G:\others\weather-app\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Number.cjs133735620206288477 0
 77G:\others\weather-app\node_modules\caniuse-lite\data\features\imagecapture.js133735620211474603 0
 65G:\others\weather-app\node_modules\cosmiconfig\dist\defaults.d.ts133735620178802011 0
@@ -92,7 +92,6 @@
 64G:\others\weather-app\node_modules\source-map\dist\source-map.js133735620175042050 0
 107G:\others\weather-app\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeElementsByAttr.js133735620213229990 0
 47G:\others\weather-app\node_modules\is-json\test133735620167372557 1
-29G:\others\weather-app\.vercel133735679630849086 1
 102G:\others\weather-app\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json133735620206019195 0
 102G:\others\weather-app\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\mergeStyles.js133735620214366869 0
 43G:\others\weather-app\node_modules\css-what133735620173546051 1
@@ -116,11 +115,10 @@
 64G:\others\weather-app\node_modules\weak-lru-cache\LRFUExpirer.js133735620165507564 0
 61G:\others\weather-app\node_modules\nth-check\lib\parse.js.map133735620173845266 0
 73G:\others\weather-app\node_modules\css-tree\lib\generator\token-before.js133735620202408850 0
-25G:\others\weather-app\src133735655916777481 1
+25G:\others\weather-app\src133735683000257244 1
 54G:\others\weather-app\node_modules\statuses\codes.json133735648561486219 0
 60G:\others\weather-app\node_modules\csso\lib\clean\Comment.js133735620182292659 0
 91G:\others\weather-app\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133735620191458139 0
-32G:\others\weather-app\src\app.js133735665151073246 0
 50G:\others\weather-app\node_modules\unpipe\index.js133735648562952304 0
 60G:\others\weather-app\node_modules\@parcel\core\src\types.js133735620225227836 0
 89G:\others\weather-app\node_modules\@swc\helpers\esm\_class_check_private_static_access.js133735620237245714 0
@@ -131,7 +129,7 @@
 52G:\others\weather-app\node_modules\mime\src\build.js133735648566173686 0
 93G:\others\weather-app\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\font-face.cjs133735620204014560 0
 62G:\others\weather-app\node_modules\delayed-stream\package.json133735648560000197 0
-36G:\others\weather-app\src\index.html133735654657503319 0
+36G:\others\weather-app\src\index.html133735683146625768 0
 54G:\others\weather-app\node_modules\parcel\package.json133735620202548474 0
 84G:\others\weather-app\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133735620181594525 0
 66G:\others\weather-app\node_modules\axios\lib\core\buildFullPath.js133735648569863808 0
@@ -6116,7 +6114,6 @@
 90G:\others\weather-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser133735620228110116 1
 90G:\others\weather-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax133735620225128117 1
 89G:\others\weather-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils133735620227192575 1
-40G:\others\weather-app\.vercel\README.txt133735679630849086 0
 90G:\others\weather-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker133735620224828886 1
 99G:\others\weather-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker\index.js133735620224848831 0
 102G:\others\weather-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\const.js133735620210866235 0
@@ -6586,6 +6583,7 @@
 81G:\others\weather-app\node_modules\@parcel\core\lib\registerCoreWithSerializer.js133735620217737851 0
 60G:\others\weather-app\node_modules\@parcel\core\lib\requests133735620227551607 1
 69G:\others\weather-app\node_modules\@parcel\core\lib\RequestTracker.js133735620219343569 0
+44G:\others\weather-app\dist\index.579125c3.js133735683426327054 0
 69G:\others\weather-app\node_modules\@parcel\core\lib\resolveOptions.js133735620221797010 0
 71G:\others\weather-app\node_modules\@parcel\core\lib\summarizeRequest.js133735620223362811 0
 72G:\others\weather-app\node_modules\@parcel\core\lib\SymbolPropagation.js133735620223572249 0
@@ -6704,9 +6702,8 @@
 48G:\others\weather-app\node_modules\.bin\svgo.ps1133735620441010680 0
 62G:\others\weather-app\node_modules\.bin\update-browserslist-db133735620441120399 0
 66G:\others\weather-app\node_modules\.bin\update-browserslist-db.ps1133735620441120399 0
-26G:\others\weather-app\dist133735681788956995 1
-42G:\others\weather-app\.vercel\project.json133735679630839109 0
-44G:\others\weather-app\dist\index.816e7b21.js133735681788807390 0
-45G:\others\weather-app\dist\index.4d663569.css133735681788807390 0
-49G:\others\weather-app\dist\index.4d663569.css.map133735681788867241 0
-48G:\others\weather-app\dist\index.816e7b21.js.map133735681788956995 0
+34G:\others\weather-app\src\index.js133735665151073246 0
+26G:\others\weather-app\dist133735683426616288 1
+45G:\others\weather-app\dist\index.4d663569.css133735683426327054 0
+48G:\others\weather-app\dist\index.579125c3.js.map133735683426556486 0
+49G:\others\weather-app\dist\index.4d663569.css.map133735683426566402 0
