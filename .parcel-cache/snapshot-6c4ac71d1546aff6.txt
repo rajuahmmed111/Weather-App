@@ -23,7 +23,7 @@
 41G:\others\weather-app\node_modules\hasown133735648566472884 1
 57G:\others\weather-app\node_modules\es-errors\package.json133735648567250795 0
 54G:\others\weather-app\node_modules\srcset\package.json133735620165328038 0
-34G:\others\weather-app\package.json133735688175018986 0
+34G:\others\weather-app\package.json133735688603578316 0
 39G:\others\weather-app\node_modules\vary133735648563301359 1
 102G:\others\weather-app\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\mergeStyles.js133735620214366869 0
 43G:\others\weather-app\node_modules\css-what133735620173546051 1
